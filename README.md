@@ -13,7 +13,7 @@ I'm a Computer Science prefinal year student with a passion for backend developm
 
 ## 📊 GitHub Stats
 
-[![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
+[![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuWorldref&show_icons=true&theme=radical)](https://github.com/manuWorldref)
 
 ## 📫 Contact Me
 
