@@ -12,7 +12,7 @@ I'm a Computer Science prefinal year student with a passion for backend developm
 - and more...
 
 ## 📊 GitHub Stats
-[![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuWorldref)](https://github.com/manuWorldref/github-readme-stats)
+[![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuWorldref)](https://github.com/manuWorldref/WR_DealX_Backend)
 
 ## 📫 Contact Me
 
